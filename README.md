@@ -28,4 +28,16 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
