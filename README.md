@@ -44,10 +44,12 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,4 +58,5 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
