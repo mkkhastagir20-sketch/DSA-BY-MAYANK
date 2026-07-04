@@ -19,6 +19,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -59,4 +60,16 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
