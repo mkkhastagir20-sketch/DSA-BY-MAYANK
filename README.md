@@ -23,6 +23,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [1143-longest-common-subsequence](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -95,6 +96,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
