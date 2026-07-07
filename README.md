@@ -19,6 +19,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0790-domino-and-tromino-tiling) |
+| [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
@@ -33,6 +34,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
+| [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -108,4 +110,12 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
