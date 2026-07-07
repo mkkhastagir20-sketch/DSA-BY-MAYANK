@@ -33,6 +33,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
 | ------- |
