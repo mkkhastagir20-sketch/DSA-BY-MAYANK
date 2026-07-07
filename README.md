@@ -10,6 +10,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
+| [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
@@ -101,4 +103,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
