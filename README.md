@@ -9,6 +9,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
+| [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
@@ -88,6 +89,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 ## Counting
 |  |
@@ -106,6 +108,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
+| [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -113,6 +116,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 ## Brainteaser
 |  |
