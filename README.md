@@ -6,6 +6,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
@@ -16,6 +17,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0790-domino-and-tromino-tiling) |
