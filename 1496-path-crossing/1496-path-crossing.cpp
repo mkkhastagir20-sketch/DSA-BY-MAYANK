@@ -20,7 +20,7 @@ public:
                     y--;
                 }
             key= to_string(x)+"_"+to_string(y);
-            if(st.contains(key)){
+            if(st.find(key)!=st.end()){
                 return true;
             }
             st.insert(key);
