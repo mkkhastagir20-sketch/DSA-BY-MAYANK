@@ -6,6 +6,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -80,6 +81,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1496-path-crossing) |
