@@ -7,6 +7,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -112,6 +113,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
