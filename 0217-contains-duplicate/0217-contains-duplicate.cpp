@@ -6,9 +6,9 @@ public:
             if(seen.count(nums[i])){
                 return true;
             }
-            else{
+            
                 seen.insert(nums[i]);
-            }
+            
         }
         return false;
     }
