@@ -12,6 +12,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
@@ -83,6 +84,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1496-path-crossing) |
@@ -94,6 +96,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
