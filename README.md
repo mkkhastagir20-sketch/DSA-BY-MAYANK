@@ -7,6 +7,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
@@ -34,6 +35,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
@@ -143,4 +145,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
