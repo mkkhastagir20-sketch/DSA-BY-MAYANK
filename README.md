@@ -9,6 +9,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -109,6 +110,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
@@ -133,6 +135,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0027-remove-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
