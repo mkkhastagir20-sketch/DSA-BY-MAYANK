@@ -16,6 +16,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
@@ -102,6 +103,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1496-path-crossing) |
@@ -116,6 +118,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
@@ -134,6 +137,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +145,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
+| [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String Matching
