@@ -22,6 +22,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1260-shift-2d-grid](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1260-shift-2d-grid) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -191,9 +192,14 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0303-range-sum-query-immutable) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
