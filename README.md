@@ -13,6 +13,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0303-range-sum-query-immutable) |
@@ -55,6 +56,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
 | [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -145,6 +147,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
