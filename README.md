@@ -85,12 +85,14 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
@@ -102,6 +104,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
@@ -206,4 +209,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1260-shift-2d-grid) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
