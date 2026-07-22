@@ -91,6 +91,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0404-sum-of-left-leaves) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -102,6 +103,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0404-sum-of-left-leaves) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
@@ -110,6 +112,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
+| [0404-sum-of-left-leaves](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,6 +122,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0111-minimum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0404-sum-of-left-leaves) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 | [2236-root-equals-sum-of-children](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2236-root-equals-sum-of-children) |
 ## Hash Table
