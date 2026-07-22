@@ -88,6 +88,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
@@ -96,6 +97,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
@@ -103,12 +105,14 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0100-same-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0872-leaf-similar-trees) |
 ## Hash Table
