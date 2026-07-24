@@ -29,6 +29,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [1344-angle-between-hands-of-a-clock](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -146,6 +148,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -238,4 +241,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0145-binary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
