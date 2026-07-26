@@ -20,6 +20,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1260-shift-2d-grid) |
@@ -61,6 +62,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -163,6 +165,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3536-maximum-product-of-two-digits) |
