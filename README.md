@@ -24,6 +24,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -166,6 +167,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0414-third-maximum-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3536-maximum-product-of-two-digits) |
@@ -254,4 +256,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
