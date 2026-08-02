@@ -22,6 +22,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0877-stone-game) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +43,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0198-house-robber](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -64,6 +66,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -220,6 +223,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
