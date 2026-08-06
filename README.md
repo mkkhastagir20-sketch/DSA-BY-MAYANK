@@ -71,6 +71,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [1025-divisor-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1025-divisor-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3536-maximum-product-of-two-digits) |
@@ -269,6 +270,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Heap (Priority Queue)
 |  |
