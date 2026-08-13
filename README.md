@@ -65,6 +65,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0877-stone-game) |
@@ -160,6 +161,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
@@ -211,6 +213,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -280,4 +283,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
