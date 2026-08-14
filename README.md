@@ -59,6 +59,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [1143-longest-common-subsequence](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1496-path-crossing) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -167,6 +168,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1496-path-crossing](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1496-path-crossing) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -241,6 +243,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1652-defuse-the-bomb) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
 |  |
 | ------- |
