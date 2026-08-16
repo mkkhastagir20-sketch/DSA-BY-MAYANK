@@ -55,6 +55,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0014-longest-common-prefix](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1143-longest-common-subsequence) |
@@ -163,6 +164,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
@@ -175,6 +177,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -243,6 +246,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -292,4 +296,20 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
