@@ -223,6 +223,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -267,6 +268,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0234-palindrome-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -286,6 +288,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0094-binary-tree-inorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0234-palindrome-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -315,4 +318,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
