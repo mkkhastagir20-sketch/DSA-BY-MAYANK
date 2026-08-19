@@ -57,6 +57,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0796-rotate-string) |
@@ -70,6 +71,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
