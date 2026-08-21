@@ -69,6 +69,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0168-excel-sheet-column-title) |
@@ -272,6 +273,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0234-palindrome-linked-list) |
 ## Simulation
@@ -327,5 +329,6 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
