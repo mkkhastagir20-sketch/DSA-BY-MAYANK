@@ -86,6 +86,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [3513-number-of-unique-xor-triplets-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/3867-sum-of-gcd-of-formed-pairs) |
