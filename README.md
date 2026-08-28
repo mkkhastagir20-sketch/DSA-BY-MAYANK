@@ -71,6 +71,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0168-excel-sheet-column-title) |
