@@ -9,6 +9,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0001-two-sum](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0136-single-number) |
@@ -42,6 +43,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0118-pascals-triangle) |
@@ -245,6 +247,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0455-assign-cookies) |
 | [2706-buy-two-chocolates](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/2706-buy-two-chocolates) |
 ## Brainteaser
