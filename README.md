@@ -229,6 +229,7 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
@@ -341,4 +342,8 @@ Hi I am Mayank Kumar Khastagir here ill be posting solution of dsa problems on l
 | ------- |
 | [0002-add-two-numbers](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mkkhastagir20-sketch/DSA-BY-MAYANK/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
